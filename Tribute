@@ -1,0 +1,61 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<style>
+  
+  body {
+    font-family: calibri;
+    padding: 10px;
+    color: #333;
+  }
+  
+  .header {
+    font-family: arial;
+    text-align: center;
+    padding: 10px
+  }
+
+  img {
+    width: 700px;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0px 0px 0px;
+  }
+  
+  main {
+    background-color: #f1f1f1;
+    margin: 30px;
+    padding: 20px;
+  }
+  
+  .header h1 {
+    font-size: 50px;
+  }
+  
+  #img-caption {
+    text-align: center;
+  }
+  
+</style>
+
+<body>
+
+  <main id="main">
+    <div class="header">
+      <h1 id="title">Carly Rae Jepsen</h1>
+      <h2>She's the queen of pop!!! &#128147</h2>
+    </div>
+
+    <div id="img-div">
+      <img id="image" src="https://media.npr.org/assets/img/2019/05/10/20190502-carlyraejepsen-3_custom-c2900a23eee0a7af8c80fbf93becf14594ba162d.jpg"></img>
+      <p id="img-caption"><i>Carly Rae Jepsen, she is looking drop dead gorgeous!</i></p>
+    </div>
+  
+    <div>
+      <p id="tribute-info">Carly Rae Jepsen is a Canadian singer, songwriter, and actress. Born and raised in Mission, British Columbia, Jepsen performed several lead roles in her high school's musical productions and pursued musical theatre at the Canadian College of Performing Arts in Victoria, British Columbia. After completing her studies, she relocated to Vancouver and later competed on the fifth season of Canadian Idol in 2007, placing third. In 2008, Jepsen released her folk-influenced debut studio album, Tug of War, in Canada.<br><br>Full article on <a id="tribute-link" href="https://en.wikipedia.org/wiki/Carly_Rae_Jepsen" target="_blank">Wikipedia</p>
+      </div>
+
+  </main>
+
+<body>
