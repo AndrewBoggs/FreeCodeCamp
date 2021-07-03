@@ -1,1 +1,1 @@
-These are completed projects from the responsive web design certificate.
+Tribute page from the responsive web design certificate.
